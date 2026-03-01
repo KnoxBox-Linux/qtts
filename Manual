@@ -1,0 +1,19 @@
+When you open the app .
+It will ask you for a webpage link ,
+give it your desired webpage , say from Amazon.com then press [Enter]
+Once the curl function takes the entire template out,
+it will prompt you to View or Download.
+
+View-
+Opens the ternimal and runs the entire html code inside it for us to read and inspect (Ctrl+C wont work , Nerd stuff)
+
+Download-
+Takes the entire page , ban-for-ban , with an exception of links and ads (We dont do that here), gets shrunk into a minimal html file.
+Then your file manager will recognise a file being downloaded and ask for the location to download.
+
+
+You can open the html with any webviewer or browser and it will work.
+
+
+Good luck making a High-quality Alibaba market page lol!
+Anyways , Have fun!
